@@ -1,11 +1,11 @@
 # lawkeeper
 # ⚖️ Lawkeeper – AI 법률 상담 에이전트
 
-<img src="https://github.com/user-attachments/assets/8895a1b9-c95d-4e05-b028-a65c8952ceb6" alt="Lawkeeper 발표자료" width="500">\
+<img src="https://raw.githubusercontent.com/tjehdgus/lawkeeper_rag_openAI/main/images/cover.png" alt="Lawkeeper 발표자료" width="500">\
 
 ---
 ## 🗂 발표 자료
-- [📂 발표자료 PDF](https://github.com/tjehdgus/lawkeeper/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+- [📂 발표자료 PDF](./docs/법률AI에이전트.pdf)
 - 프로젝트의 자세한 내용은 발표자료에서 확인할 수 있습니다:  
 # 📖 프로젝트 개요
 
